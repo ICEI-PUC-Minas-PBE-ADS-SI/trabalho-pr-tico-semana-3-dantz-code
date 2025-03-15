@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Danton Rodrigues Diniz
+- Matricula: 882849
+- Proposta de projeto escolhida: Guia de Local Túristico
+- Breve descrição sobre seu projeto: Meu projeto é um projeto que se consiste em informar locais túristicos especificamente nos Estados Unidos, com imagens que mostram um pouco do lugar, informa a cidade que se encontra.
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+
+![Locais Túristicos](https://github.com/user-attachments/assets/adf85da8-45c7-41e7-bb48-bf56500a35fd)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![esboço](https://github.com/user-attachments/assets/164bfaa1-afff-4e03-95bb-f45479080cf2

@@ -21,4 +21,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-![esboço](https://github.com/user-attachments/assets/164bfaa1-afff-4e03-95bb-f45479080cf2
+![esboço](https://github.com/user-attachments/assets/164bfaa1-afff-4e03-95bb-f45479080cf2)
